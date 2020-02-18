@@ -1,0 +1,5 @@
+nome : patrick 
+idade : 18
+serie : Vikings
+livro : nenhum
+filme : vingadores ultimato
