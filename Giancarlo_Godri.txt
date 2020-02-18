@@ -1,0 +1,5 @@
+nome: Giancarlo Godri
+idade: 37 anos
+Série: Vikings
+livro: Milagre da manhã
+Filme: Homem aranha - de volta ao lar
